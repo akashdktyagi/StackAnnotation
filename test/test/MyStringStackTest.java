@@ -31,7 +31,7 @@ public class MyStringStackTest extends TestCase {
 
 	@Test
 	public void testPush() {
-		assertFalse (true); //failing the test case
+		//assertFalse (true); //failing the test case
 		String o1 = null;  
 		MyStringStack stack = new MyStringStack();
 		assertTrue (stack.isEmpty());
